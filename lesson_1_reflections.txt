@@ -13,3 +13,8 @@ Git is more for saving code projects, which often span multiple files, each reli
 How can you use the commands git log and git diff to view the history of files?
 git log displays a list of all changes that were committed.  git diff shows the differences between two commits.
 
+How might using version control make you more confident to make changes that could break something?
+You can take more risks.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+For iOS, Android, and web projects.
